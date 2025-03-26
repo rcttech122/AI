@@ -1,0 +1,81 @@
+Student Name,Student ID,Dataset,ML Models,Train/Test Split,Cross-Validation Folds
+Aisan,4130504,CW_Dataset_4130504.csv,"Artificial Neural Network, Random Forest, CatBoost, Support Vector Machine, K-Nearest Neighbors",80/20,10
+Ammar,4333591,CW_Dataset_4333591.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, Logistic Regression, CatBoost",70/30,10
+Nancy,4133212,CW_Dataset_4133212.csv,"Artificial Neural Network, Random Forest, AdaBoost, Logistic Regression, Gradient Boosting",80/20,5
+Bahredin Abdulrahman,4100263,CW_Dataset_4100263.csv,"Artificial Neural Network, Random Forest, Logistic Regression, Support Vector Machine, Decision Tree",70/30,10
+Sakariya Abuukar,4300437,CW_Dataset_4300437.csv,"Artificial Neural Network, Random Forest, CatBoost, Extra Trees Classifier, Naive Bayes",75/25,5
+Mahrin Adiba,4128073,CW_Dataset_4128073.csv,"Artificial Neural Network, Random Forest, LightGBM, CatBoost, Extra Trees Classifier",70/30,3
+Fahaduzzaman Afrad,4123489,CW_Dataset_4123489.csv,"Artificial Neural Network, Random Forest, CatBoost, AdaBoost, Logistic Regression",85/15,10
+Muhammad Aftab,4127654,CW_Dataset_4127654.csv,"Artificial Neural Network, Random Forest, Support Vector Machine, Decision Tree, Logistic Regression",75/25,5
+Mahadi Ahad,4123490,CW_Dataset_4123490.csv,"Artificial Neural Network, Random Forest, LightGBM, Gradient Boosting, Support Vector Machine",75/25,10
+Fahad Ahmed,4124832,CW_Dataset_4124832.csv,"Artificial Neural Network, Random Forest, Decision Tree, AdaBoost, K-Nearest Neighbors",80/20,3
+Riad Ahmod,4130652,CW_Dataset_4130652.csv,"Artificial Neural Network, Random Forest, Decision Tree, Naive Bayes, LightGBM",80/20,3
+Sk Al Fahad,4131246,CW_Dataset_4131246.csv,"Artificial Neural Network, Random Forest, AdaBoost, Support Vector Machine, Gradient Boosting",70/30,3
+Mohammed Alvee,4131690,CW_Dataset_4131690.csv,"Artificial Neural Network, Random Forest, AdaBoost, Decision Tree, CatBoost",85/15,3
+Abdul Ameer,4327043,CW_Dataset_4327043.csv,"Artificial Neural Network, Random Forest, Logistic Regression, LightGBM, AdaBoost",70/30,3
+Ruhee Ameer Sheriff,4319104,CW_Dataset_4319104.csv,"Artificial Neural Network, Random Forest, LightGBM, K-Nearest Neighbors, Gradient Boosting",80/20,10
+Abdul Aziz,4130471,CW_Dataset_4130471.csv,"Artificial Neural Network, Random Forest, Support Vector Machine, Extra Trees Classifier, Decision Tree",70/30,5
+Muhammad Bashir,4132298,CW_Dataset_4132298.csv,"Artificial Neural Network, Random Forest, Gradient Boosting, LightGBM, Support Vector Machine",75/25,3
+Abderrahmane Benadouda,4127658,CW_Dataset_4127658.csv,"Artificial Neural Network, Random Forest, LightGBM, Extra Trees Classifier, Decision Tree",70/30,3
+Daniel Bevan,4117643,CW_Dataset_4117643.csv,"Artificial Neural Network, Random Forest, Naive Bayes, Support Vector Machine, CatBoost",80/20,3
+Abderrahmane Boudelal,4127674,CW_Dataset_4127674.csv,"Artificial Neural Network, Random Forest, CatBoost, Logistic Regression, K-Nearest Neighbors",80/20,10
+Gabriel Cassim,4300402,CW_Dataset_4300402.csv,"Artificial Neural Network, Random Forest, Extra Trees Classifier, K-Nearest Neighbors, LightGBM",70/30,3
+Iulian Chirosca,4318913,CW_Dataset_4318913.csv,"Artificial Neural Network, Random Forest, CatBoost, Support Vector Machine, K-Nearest Neighbors",75/25,3
+Raul Cimpean Sucala,4318029,CW_Dataset_4318029.csv,"Artificial Neural Network, Random Forest, AdaBoost, LightGBM, Support Vector Machine",80/20,3
+Andrei Crut,4322756,CW_Dataset_4322756.csv,"Artificial Neural Network, Random Forest, CatBoost, Extra Trees Classifier, Support Vector Machine",80/20,3
+Thomas Danso,3206215,CW_Dataset_3206215.csv,"Artificial Neural Network, Random Forest, Decision Tree, LightGBM, CatBoost",85/15,5
+Hiba El Halouat,4106872,CW_Dataset_4106872.csv,"Artificial Neural Network, Random Forest, LightGBM, Support Vector Machine, Extra Trees Classifier",75/25,3
+Emmanuel Gessessew,4332861,CW_Dataset_4332861.csv,"Artificial Neural Network, Random Forest, Naive Bayes, LightGBM, CatBoost",85/15,3
+Syed Hassan,4128086,CW_Dataset_4128086.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, CatBoost, AdaBoost",85/15,3
+Matheus Hernandez De Moraes,4112626,CW_Dataset_4112626.csv,"Artificial Neural Network, Random Forest, CatBoost, Decision Tree, AdaBoost",75/25,5
+Md Hossain,4134124,CW_Dataset_4134124.csv,"Artificial Neural Network, Random Forest, CatBoost, K-Nearest Neighbors, Support Vector Machine",70/30,10
+Md Hossain,4135701,CW_Dataset_4135701.csv,"Artificial Neural Network, Random Forest, Support Vector Machine, K-Nearest Neighbors, Logistic Regression",85/15,10
+Nayeem Hossain,4135395,CW_Dataset_4135395.csv,"Artificial Neural Network, Random Forest, AdaBoost, LightGBM, Naive Bayes",75/25,10
+Toyshe Hossain,4010954,CW_Dataset_4010954.csv,"Artificial Neural Network, Random Forest, Naive Bayes, Extra Trees Classifier, Decision Tree",85/15,10
+Abdirahim Ibrahim,4022405,CW_Dataset_4022405.csv,"Artificial Neural Network, Random Forest, Naive Bayes, LightGBM, CatBoost",70/30,3
+Kohoban Jayasekara,4320983,CW_Dataset_4320983.csv,"Artificial Neural Network, Random Forest, Naive Bayes, Logistic Regression, Extra Trees Classifier",70/30,10
+Koyes Kabir,4320988,CW_Dataset_4320988.csv,"Artificial Neural Network, Random Forest, Naive Bayes, Extra Trees Classifier, K-Nearest Neighbors",85/15,3
+Alvin Kadathukalam,4019511,CW_Dataset_4019511.csv,"Artificial Neural Network, Random Forest, Extra Trees Classifier, K-Nearest Neighbors, Support Vector Machine",70/30,5
+Tara Karki,4033831,CW_Dataset_4033831.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, CatBoost, Naive Bayes",75/25,10
+Leo Kelly,2476946,CW_Dataset_2476946.csv,"Artificial Neural Network, Random Forest, Logistic Regression, LightGBM, AdaBoost",85/15,3
+Lait Lamontagne,4237400,CW_Dataset_4237400.csv,"Artificial Neural Network, Random Forest, AdaBoost, Logistic Regression, Extra Trees Classifier",85/15,10
+Omar M O Elhamdi,4127656,CW_Dataset_4127656.csv,"Artificial Neural Network, Random Forest, Decision Tree, Support Vector Machine, CatBoost",70/30,3
+Amirul Mahi,4127202,CW_Dataset_4127202.csv,"Artificial Neural Network, Random Forest, Extra Trees Classifier, Gradient Boosting, Decision Tree",70/30,5
+Shah Malik,4327039,CW_Dataset_4327039.csv,"Artificial Neural Network, Random Forest, Gradient Boosting, Support Vector Machine, K-Nearest Neighbors",80/20,10
+Julio Mendoza Piedra,4323718,CW_Dataset_4323718.csv,"Artificial Neural Network, Random Forest, Decision Tree, Naive Bayes, LightGBM",70/30,10
+May Metwaly,4112946,CW_Dataset_4112946.csv,"Artificial Neural Network, Random Forest, AdaBoost, Extra Trees Classifier, Logistic Regression",80/20,10
+Haseeb Mirza,4119392,CW_Dataset_4119392.csv,"Artificial Neural Network, Random Forest, Extra Trees Classifier, CatBoost, AdaBoost",70/30,5
+Kevin Mrishaj,4013891,CW_Dataset_4013891.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, Extra Trees Classifier, AdaBoost",80/20,5
+Shahriar Neehal,4134571,CW_Dataset_4134571.csv,"Artificial Neural Network, Random Forest, LightGBM, Logistic Regression, Gradient Boosting",75/25,5
+Fatima Nehme,3905404,CW_Dataset_3905404.csv,"Artificial Neural Network, Random Forest, Logistic Regression, Gradient Boosting, AdaBoost",75/25,3
+Ngoc Nguyen,4128053,CW_Dataset_4128053.csv,"Artificial Neural Network, Random Forest, Support Vector Machine, CatBoost, Gradient Boosting",75/25,5
+Tristan Oketa,4114789,CW_Dataset_4114789.csv,"Artificial Neural Network, Random Forest, CatBoost, Support Vector Machine, LightGBM",70/30,5
+Jennifer Oliveira Lopes,4200191,CW_Dataset_4200191.csv,"Artificial Neural Network, Random Forest, LightGBM, AdaBoost, Naive Bayes",85/15,5
+Macaulay Osborne,3919767,CW_Dataset_3919767.csv,"Artificial Neural Network, Random Forest, Support Vector Machine, LightGBM, AdaBoost",80/20,5
+Riken Padshala,4132853,CW_Dataset_4132853.csv,"Artificial Neural Network, Random Forest, Logistic Regression, Gradient Boosting, K-Nearest Neighbors",85/15,3
+Sherwin Parmar,4130212,CW_Dataset_4130212.csv,"Artificial Neural Network, Random Forest, LightGBM, Gradient Boosting, Naive Bayes",85/15,5
+Irva Patel,4131531,CW_Dataset_4131531.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, Extra Trees Classifier, CatBoost",80/20,10
+Victor Pavel,4320446,CW_Dataset_4320446.csv,"Artificial Neural Network, Random Forest, Logistic Regression, Extra Trees Classifier, Naive Bayes",70/30,10
+Denzel Pougin Boudine,4101090,CW_Dataset_4101090.csv,"Artificial Neural Network, Random Forest, Naive Bayes, K-Nearest Neighbors, CatBoost",80/20,5
+Aravind Ragunathan,4200770,CW_Dataset_4200770.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, LightGBM, Gradient Boosting",75/25,10
+Aiman Rahman,4129680,CW_Dataset_4129680.csv,"Artificial Neural Network, Random Forest, Extra Trees Classifier, Logistic Regression, LightGBM",75/25,10
+Noemi Revesz,3928428,CW_Dataset_3928428.csv,"Artificial Neural Network, Random Forest, Support Vector Machine, Logistic Regression, AdaBoost",80/20,3
+Sukhpreet Sandhu,4124518,CW_Dataset_4124518.csv,"Artificial Neural Network, Random Forest, Naive Bayes, Logistic Regression, LightGBM",70/30,10
+Kajan Sathiyakumar,4214986,CW_Dataset_4214986.csv,"Artificial Neural Network, Random Forest, Logistic Regression, Decision Tree, Gradient Boosting",85/15,3
+Zarin Shabab,4128116,CW_Dataset_4128116.csv,"Artificial Neural Network, Random Forest, Gradient Boosting, Naive Bayes, LightGBM",85/15,5
+Ahsan Shabbir,4128087,CW_Dataset_4128087.csv,"Artificial Neural Network, Random Forest, Gradient Boosting, Decision Tree, Logistic Regression",85/15,5
+Aditya Shah,4124501,CW_Dataset_4124501.csv,"Artificial Neural Network, Random Forest, Naive Bayes, K-Nearest Neighbors, Logistic Regression",75/25,3
+Syed Shah,4127676,CW_Dataset_4127676.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, Decision Tree, CatBoost",70/30,5
+Sameer Shaikh,4122118,CW_Dataset_4122118.csv,"Artificial Neural Network, Random Forest, Naive Bayes, Logistic Regression, Support Vector Machine",85/15,3
+Manpreet Sharma,4125536,CW_Dataset_4125536.csv,"Artificial Neural Network, Random Forest, Logistic Regression, LightGBM, CatBoost",80/20,5
+Mohammed Siddique,4123488,CW_Dataset_4123488.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, LightGBM, Support Vector Machine",70/30,5
+Sujal Sikerwar,4132894,CW_Dataset_4132894.csv,"Artificial Neural Network, Random Forest, AdaBoost, CatBoost, Decision Tree",70/30,5
+Dharam Singh,3907310,CW_Dataset_3907310.csv,"Artificial Neural Network, Random Forest, Decision Tree, Logistic Regression, AdaBoost",70/30,5
+Paramveer Singh,4124165,CW_Dataset_4124165.csv,"Artificial Neural Network, Random Forest, Decision Tree, Logistic Regression, LightGBM",70/30,10
+Md Sufiun,4120846,CW_Dataset_4120846.csv,"Artificial Neural Network, Random Forest, Gradient Boosting, K-Nearest Neighbors, Extra Trees Classifier",70/30,3
+Candice Tetteh,4023817,CW_Dataset_4023817.csv,"Artificial Neural Network, Random Forest, LightGBM, Support Vector Machine, Extra Trees Classifier",75/25,10
+Jay Thakkar,4132349,CW_Dataset_4132349.csv,"Artificial Neural Network, Random Forest, Support Vector Machine, Decision Tree, Logistic Regression",80/20,3
+Daniel Tufour,4022820,CW_Dataset_4022820.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, Logistic Regression, CatBoost",80/20,10
+Muhammad Unain,4128136,CW_Dataset_4128136.csv,"Artificial Neural Network, Random Forest, LightGBM, Extra Trees Classifier, Support Vector Machine",85/15,3
+Dilshan Us Durage,4127677,CW_Dataset_4127677.csv,"Artificial Neural Network, Random Forest, AdaBoost, Decision Tree, Support Vector Machine",85/15,10
+Muhammad Zaid,4122642,CW_Dataset_4122642.csv,"Artificial Neural Network, Random Forest, K-Nearest Neighbors, Decision Tree, Naive Bayes",85/15,10
